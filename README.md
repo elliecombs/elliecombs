@@ -1,7 +1,5 @@
-### Hi there 👋
+### Hi I am Ellie 👋
 
-<!--
-**elliecombs/elliecombs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -9,5 +7,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Firebase & FireCloud.
 - 💬 Ask me about Coding Dojo Bootcamp!
 - 📫 How to reach me: ewxc96@gmail.com
+- 😮 I can speak some Chinese & Italain 
 - ⚡ Fun fact: I love hiking, horse-back riding & eating gnocci!
--->
+
