@@ -1,4 +1,4 @@
-### Hi I am Ellie 👋
+### Hi, my name is Ellie 👋
 
 - 🔭 I’m currently working on volunteer project!
 - 🌱 I’m currently learning Firebase & FireCloud.
