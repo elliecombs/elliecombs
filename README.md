@@ -1,6 +1,6 @@
 ### Hi, my name is Ellie 👋
 
-- 💼 Check out my Portfolio: https://github.com/elliecombs/Ellie-Portfolio/tree/master/Profile
+- 💼 Check out my Portfolio: https://elliecombs.github.io/portfolio/
 - 🌱 I’m currently learning Firebase & FireCloud.
 - 💬 Ask me anything about my experience at Coding Dojo Bootcamp!
 - 📫 How to reach me: ewxc96@gmail.com
